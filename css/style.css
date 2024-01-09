@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* header section starts */
 .container {
     max-width: 1320px;
@@ -37,11 +38,102 @@
     font-weight: 900;
     line-height: 95px;
 }
+
 /* header section ends  */
 /* main section starts  */
 
+/* offer section start  */
+.sales-offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 48px;
+}
 
+.offer-description {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
 
+.offer-categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
 
+.offer-section-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 802.9px;
+    height: 500px;
+    margin-bottom: 120px;
+}
+
+/* offer section end  */
+/* party invitation starts */
+
+.party-invitaion-banner {
+    display: flex;
+    background:
+        linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    border-radius: 16px;
+    height: 600px;
+}
+
+.welcome-message {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    max-width: 642px;
+    margin-top: 126px;
+    margin-left: 126px;
+}
+
+.welcome-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 697px;
+    padding-top: 24px;
+    padding-left: 126px;
+    margin-bottom: 48px;
+}
+
+.party-invitation-banner-column>a {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 126px;
+    margin-bottom: 142px;
+}
+
+.second-column-image {
+    width: 349.165px;
+    height: 464.654px;
+    margin-right: 108px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+/* Party invitation ends  */
 
 /* main section ends  */
