@@ -89,6 +89,7 @@
         linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
     border-radius: 16px;
     height: 600px;
+    margin-bottom: 120px;
 }
 
 .welcome-message {
@@ -135,5 +136,50 @@
 }
 
 /* Party invitation ends  */
+
+/* party-event-detail-section start  */
+.party-event-detail-section {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 48px;
+}
+
+.party-event-detail {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.party-event-detail-section span {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    padding: 16px 32px;
+    
+}
+.btn-primary a{
+    color: #FFF;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+}
+.join-now-button{
+    text-align: center;
+    margin-bottom: 126px;
+}
+
+/* party-event-detail-section ends  */
 
 /* main section ends  */
