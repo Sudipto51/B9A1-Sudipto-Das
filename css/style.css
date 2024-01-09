@@ -184,6 +184,58 @@
 
 /* party-event-detail-section ends  */
 
+/* best offer section start  */
+.best-offer-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 230px;
+    margin-bottom: 120px;
+}
+.best-offer-heading {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.best-offer-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 22px;
+}
+
+.best-offer-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 393px;
+}
+
+.new-year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.new-year-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 276px;
+    margin-bottom: 43px;
+}
+
+/* best offer section end  */
+
 /* Holiday sale section starts */
 
 .sales-header-first-part {
@@ -354,7 +406,7 @@
 /* newsletter section ends  */
 /* main section ends  */
 /* footer section  */
-.footer-bg{
+.footer-bg {
     width: 1600px;
     height: 609px;
     background: #070211;
@@ -371,16 +423,19 @@
     font-size: 24px;
     font-weight: 500;
     line-height: 40px;
-    
+
 }
-.footer-details{
+
+.footer-details {
     margin-top: 120px;
 }
-hr{
+
+hr {
     background: rgba(255, 255, 255, 0.15);
     margin-top: 50px;
 }
-.social-media-icons{
+
+.social-media-icons {
     display: flex;
     gap: 24px;
     justify-content: center;
