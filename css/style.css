@@ -166,20 +166,81 @@
     background: #F00;
     border: none;
     padding: 16px 32px;
-    
+
 }
-.btn-primary a{
+
+.btn-primary a {
     color: #FFF;
     font-family: inter;
     font-weight: 700;
     font-size: 20px;
     text-decoration: none;
 }
-.join-now-button{
+
+.join-now-button {
     text-align: center;
     margin-bottom: 126px;
 }
 
 /* party-event-detail-section ends  */
+
+/* Holiday sale section starts */
+
+.sales-header-first-part {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.sales-header-second-part>span {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.sales-header-second-part {
+    color: #070211;
+    font-family: Merriweather;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 28px;
+}
+
+.sales-header-description {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    /* max-width: 1068px; */
+}
+
+.offer-tag-with-img {
+    display: flex;
+}
+
+.offer-logo {}
+
+.offer-lady {
+    margin-left: 583px;
+    margin-top: 85px;
+    
+}
+
+.background {
+    width: 1320px;
+    height: 229px;
+    border-radius: 16px 0px 16px 16px;
+    background: #F00;
+    }
+
+/* Holiday sale section ends  */
 
 /* main section ends  */
