@@ -276,6 +276,7 @@
     gap: 24px;
     margin-bottom: 120px;
 }
+
 /* .portfolio-images img:hover{
     border: 1px solid tomato;
 } */
@@ -288,6 +289,7 @@
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     text-align: center;
+    margin-bottom: 120px;
 }
 
 .newsletter-email-logo {
@@ -351,3 +353,37 @@
 
 /* newsletter section ends  */
 /* main section ends  */
+/* footer section  */
+.footer-bg{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-info {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    
+}
+.footer-details{
+    margin-top: 120px;
+}
+hr{
+    background: rgba(255, 255, 255, 0.15);
+    margin-top: 50px;
+}
+.social-media-icons{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
