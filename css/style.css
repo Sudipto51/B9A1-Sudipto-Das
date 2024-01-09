@@ -75,7 +75,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 802.9px;
+    max-width: 802.9px;
     height: 500px;
     margin-bottom: 120px;
 }
