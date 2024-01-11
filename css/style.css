@@ -285,12 +285,23 @@
     margin-top: 85px;
 
 }
+.offer{
+    position: relative;
+    left: 700px;
+    top: 150px;
+}
+.offer-box{
+    position: relative;
+    bottom: 650px;
+
+}
 
 .background {
     width: 1320px;
     height: 229px;
     border-radius: 16px 0px 16px 16px;
     background: #F00;
+   
 }
 
 /* Holiday sale section ends  */
