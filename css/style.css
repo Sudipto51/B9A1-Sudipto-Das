@@ -291,8 +291,8 @@
     top: 150px;
 }
 .offer-box{
-    position: relative;
-    bottom: 650px;
+    position: absolute;
+    top: 3750px;
 
 }
 
